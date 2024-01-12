@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Obrigatório informar o nome no campo:</strong>
+  <strong>Campo nome deve está preenchido:</strong>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Obrigatório formatação do e-mail está de forma correta:</strong>
+  <strong>Formatação do e-mail deve está de forma correta:</strong>
 </p>
 
 ---
