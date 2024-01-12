@@ -1,14 +1,9 @@
 Obrigatório informar o nome no campo:
-
-
-![2](https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/3e6c1961-dd5a-4c57-98a3-caa8e039b2c1)
+<img src="https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/3e6c1961-dd5a-4c57-98a3-caa8e039b2c1" alt="Descrição da Imagem" width="50%">
 
 Obrigatório formatação do e-mail esta de forma correta:
-
-
-![1](https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/dbf905bb-72d2-4bac-b4c8-65301142018b)
-
+<img src="https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/dbf905bb-72d2-4bac-b4c8-65301142018b" alt="Descrição da Imagem" width="50%">
 
 Login realizado com sucesso!
+<img src="https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/449bc7cd-3373-4b26-82cb-65849c309d51" alt="Descrição da Imagem" width="50%">
 
-![3](https://github.com/jhonnyferreiramendes/Valida-o-de-formulario-JS/assets/102994691/449bc7cd-3373-4b26-82cb-65849c309d51)
